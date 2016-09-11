@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="match_parent">-->
+
+<!--</LinearLayout>-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/popup_item1"
+        android:title="电影" />
+
+    <item
+        android:id="@+id/popup_item2"
+        android:title="音乐" />
+    <item
+        android:id="@+id/popup_item3"
+        android:title="书籍"/>
+
+</menu>
