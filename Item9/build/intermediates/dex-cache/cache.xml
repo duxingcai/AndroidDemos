@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_62c8a9aa6a9f098c43fcd994037a857f40145c10/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_d5934cb496de9719eadc79c1b7308fecc20036c6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_a946ecfd882cb773799992e431481a26b27c5c7d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="1862ecd44eef690c959f04184a666d19f7ee3fde">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_24feb3d012b29e6d003d878ac90d677dca586eee/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_5116bf1d12cc171dd2ec66db851a263a8f978083/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_f0db31c20947a9cc3a0847e7a350f473337381f5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_92407600e723fc1fc5cb7f2f0f7bd1da9ea56290/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_47df673b40a868db872597a5a334e8e056d7d71f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c33cc4a105ad78ed07f5b0ad64b51b164e3a9d8c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_7df3536d50ec635a06487705fbf70656642f7048/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_ff2d31ed1aac37985a7299293b89be4f2baaa99e/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_cff5e97d461312bf1560ccec45efa02fe3dd8ad9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e43c437aeb68843915988fde25c75a90f9572926/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_6b28c25bb4e92ace34555edddf9ab431b704e7c0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_11bad893a55d028da5ac70e6d6319552d11e56a0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_e71bb66f2a1e9b8cd0b03efd76c82f0af2dab01b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_26e1ffa205083e9db29d17ba5eb44eacfa4bbb58/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="3bfdfb3df6b461474368303204d8cf9e12b33a77">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_988217abb5d3beee7c6cb57158963457dff92112/classes.dex" />
+    </item>
+    <item
+        jar="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/duduxing/Documents/androidDemo/Item9/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_c3ab83b9adb591d614143e3f71d286c3928c808a/classes.dex" />
+    </item>
+
+</items>
