@@ -30,6 +30,13 @@
         <dex dex="/Users/duduxing/Documents/AndroidDemos/Item8/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_e57711968197bdcf48db2a0e856f955ea04be6f2/classes.dex" />
     </item>
     <item
+        jar="/Users/duduxing/Applications/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/duduxing/Documents/AndroidDemos/Item8/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_fa47ac55c1f1227e9f242c8964d7881115c9f00c/classes.dex" />
+    </item>
+    <item
         jar="/Users/duduxing/Documents/AndroidDemos/Item8/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="true"
         revision="24.0.2"
@@ -54,15 +61,8 @@
         jar="/Users/duduxing/Documents/AndroidDemos/Item8/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="6e95c8b414bf9328fea46f46eb7981382b70f689">
+        sha1="562fb351a4f935a59bd70e4da4a88eee67840785">
         <dex dex="/Users/duduxing/Documents/AndroidDemos/Item8/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_714bb267b943362551e8c093cd264a06368817e3/classes.dex" />
-    </item>
-    <item
-        jar="/Applications/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/duduxing/Documents/AndroidDemos/Item8/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_cff5e97d461312bf1560ccec45efa02fe3dd8ad9/classes.dex" />
     </item>
     <item
         jar="/Users/duduxing/Documents/AndroidDemos/Item8/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
@@ -131,7 +131,7 @@
         jar="/Users/duduxing/Documents/AndroidDemos/Item8/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="66da9ca8a8bba64f056d09f3f64eb310e35bb727">
+        sha1="bacb6284423c87ab5cd8f588ff9e11df8aa3df6e">
         <dex dex="/Users/duduxing/Documents/AndroidDemos/Item8/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b71139ef3be5fbfc569f638c051a613bd266feca/classes.dex" />
     </item>
 
