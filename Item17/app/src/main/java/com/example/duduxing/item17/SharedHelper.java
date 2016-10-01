@@ -18,6 +18,7 @@ public class SharedHelper {
         this.context = context;
     }
 
+    //保存
     public void save(String username, String passwd) {
         SharedPreferences sharedPreferences = context.getSharedPreferences("mysp", Context.MODE_PRIVATE);
         SharedPreferences.Editor editor = sharedPreferences.edit();

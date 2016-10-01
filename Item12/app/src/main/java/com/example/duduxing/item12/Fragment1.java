@@ -6,9 +6,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Created by uniqu on 2016/9/10.
- */
+
 public class Fragment1 extends Fragment {
 
     @Override
