@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="appcompat-v7-24.1.1">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../ActivitySingleData/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../ActivityForResult/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../ActivityLifecycle/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../InternalStorage/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../StartService/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../ActivityImplicit/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../ExternalStorage/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../ActivityJumping/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../MenuWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../ContentObserver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../IntentDial/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../CommonWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../Carema/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../SharedPreferences/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../FragmentColumn/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../HandlerMessage/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../BroadcastReceiver/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../DrawingGraphics/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../ListViewWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../HelloWorld/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../ContentProviderContacts/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../ScreenOrientation/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../SQLiteDatabase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../AlertDialogWidget/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../BindService/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../LogcatDebug/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../MediaPlayer/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../ActivitySingleData/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../ActivitySingleData/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Applications/extras/android/m2repository/com/android/support/appcompat-v7/24.1.1/appcompat-v7-24.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

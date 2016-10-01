@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ActivityForResult/ActivityForResult.iml" filepath="$PROJECT_DIR$/../ActivityForResult/ActivityForResult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ActivityImplicit/ActivityImplicit.iml" filepath="$PROJECT_DIR$/../ActivityImplicit/ActivityImplicit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ActivityJumping/ActivityJumping.iml" filepath="$PROJECT_DIR$/../ActivityJumping/ActivityJumping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ActivityLifecycle/ActivityLifecycle.iml" filepath="$PROJECT_DIR$/../ActivityLifecycle/ActivityLifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ActivitySingleData/ActivitySingleData.iml" filepath="$PROJECT_DIR$/../ActivitySingleData/ActivitySingleData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../AlertDialogWidget/AlertDialogWidget.iml" filepath="$PROJECT_DIR$/../AlertDialogWidget/AlertDialogWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BindService/BindService.iml" filepath="$PROJECT_DIR$/../BindService/BindService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BroadcastReceiver/BroadcastReceiver.iml" filepath="$PROJECT_DIR$/../BroadcastReceiver/BroadcastReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Carema/Carema.iml" filepath="$PROJECT_DIR$/../Carema/Carema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommonWidget/CommonWidget.iml" filepath="$PROJECT_DIR$/../CommonWidget/CommonWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ContentObserver/ContentObserver.iml" filepath="$PROJECT_DIR$/../ContentObserver/ContentObserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ContentProviderContacts/ContentProviderContacts.iml" filepath="$PROJECT_DIR$/../ContentProviderContacts/ContentProviderContacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DrawingGraphics/DrawingGraphics.iml" filepath="$PROJECT_DIR$/../DrawingGraphics/DrawingGraphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ExternalStorage/ExternalStorage.iml" filepath="$PROJECT_DIR$/../ExternalStorage/ExternalStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FragmentColumn/FragmentColumn.iml" filepath="$PROJECT_DIR$/../FragmentColumn/FragmentColumn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HandlerMessage/HandlerMessage.iml" filepath="$PROJECT_DIR$/../HandlerMessage/HandlerMessage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IntentDial/IntentDial.iml" filepath="$PROJECT_DIR$/../IntentDial/IntentDial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../InternalStorage/InternalStorage.iml" filepath="$PROJECT_DIR$/../InternalStorage/InternalStorage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ListViewWidget/ListViewWidget.iml" filepath="$PROJECT_DIR$/../ListViewWidget/ListViewWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../LogcatDebug/LogcatDebug.iml" filepath="$PROJECT_DIR$/../LogcatDebug/LogcatDebug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MediaPlayer/MediaPlayer.iml" filepath="$PROJECT_DIR$/../MediaPlayer/MediaPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MenuWidget/MenuWidget.iml" filepath="$PROJECT_DIR$/../MenuWidget/MenuWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewWidget.iml" filepath="$PROJECT_DIR$/RecyclerViewWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SQLiteDatabase/SQLiteDatabase.iml" filepath="$PROJECT_DIR$/../SQLiteDatabase/SQLiteDatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ScreenOrientation/ScreenOrientation.iml" filepath="$PROJECT_DIR$/../ScreenOrientation/ScreenOrientation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SharedPreferences/SharedPreferences.iml" filepath="$PROJECT_DIR$/../SharedPreferences/SharedPreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../StartService/StartService.iml" filepath="$PROJECT_DIR$/../StartService/StartService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../android-learning-demos-master-3.iml" filepath="$PROJECT_DIR$/../android-learning-demos-master-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+    </modules>
+  </component>
+</project>

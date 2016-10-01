@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../ActivityForResult" />
+            <option value="$PROJECT_DIR$/../ActivityImplicit" />
+            <option value="$PROJECT_DIR$/../ActivityJumping" />
+            <option value="$PROJECT_DIR$/../ActivityLifecycle" />
+            <option value="$PROJECT_DIR$/../ActivitySingleData" />
+            <option value="$PROJECT_DIR$/../AlertDialogWidget" />
+            <option value="$PROJECT_DIR$/../BindService" />
+            <option value="$PROJECT_DIR$/../BroadcastReceiver" />
+            <option value="$PROJECT_DIR$/../Carema" />
+            <option value="$PROJECT_DIR$/../CommonWidget" />
+            <option value="$PROJECT_DIR$/../ContentObserver" />
+            <option value="$PROJECT_DIR$/../ContentProviderContacts" />
+            <option value="$PROJECT_DIR$/../DrawingGraphics" />
+            <option value="$PROJECT_DIR$/../ExternalStorage" />
+            <option value="$PROJECT_DIR$/../FragmentColumn" />
+            <option value="$PROJECT_DIR$/../HandlerMessage" />
+            <option value="$PROJECT_DIR$/../HelloWorld" />
+            <option value="$PROJECT_DIR$/../IntentDial" />
+            <option value="$PROJECT_DIR$/../InternalStorage" />
+            <option value="$PROJECT_DIR$/../ListViewWidget" />
+            <option value="$PROJECT_DIR$/../LogcatDebug" />
+            <option value="$PROJECT_DIR$/../MediaPlayer" />
+            <option value="$PROJECT_DIR$/../MenuWidget" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../SQLiteDatabase" />
+            <option value="$PROJECT_DIR$/../ScreenOrientation" />
+            <option value="$PROJECT_DIR$/../SharedPreferences" />
+            <option value="$PROJECT_DIR$/../StartService" />
+            <option value="$PROJECT_DIR$/../app" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../ActivityForResult" />
+            <option value="$PROJECT_DIR$/../ActivityImplicit" />
+            <option value="$PROJECT_DIR$/../ActivityJumping" />
+            <option value="$PROJECT_DIR$/../ActivityLifecycle" />
+            <option value="$PROJECT_DIR$/../ActivitySingleData" />
+            <option value="$PROJECT_DIR$/../AlertDialogWidget" />
+            <option value="$PROJECT_DIR$/../BindService" />
+            <option value="$PROJECT_DIR$/../BroadcastReceiver" />
+            <option value="$PROJECT_DIR$/../Carema" />
+            <option value="$PROJECT_DIR$/../CommonWidget" />
+            <option value="$PROJECT_DIR$/../ContentObserver" />
+            <option value="$PROJECT_DIR$/../ContentProviderContacts" />
+            <option value="$PROJECT_DIR$/../DrawingGraphics" />
+            <option value="$PROJECT_DIR$/../ExternalStorage" />
+            <option value="$PROJECT_DIR$/../FragmentColumn" />
+            <option value="$PROJECT_DIR$/../HandlerMessage" />
+            <option value="$PROJECT_DIR$/../HelloWorld" />
+            <option value="$PROJECT_DIR$/../IntentDial" />
+            <option value="$PROJECT_DIR$/../InternalStorage" />
+            <option value="$PROJECT_DIR$/../ListViewWidget" />
+            <option value="$PROJECT_DIR$/../LogcatDebug" />
+            <option value="$PROJECT_DIR$/../MediaPlayer" />
+            <option value="$PROJECT_DIR$/../MenuWidget" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../SQLiteDatabase" />
+            <option value="$PROJECT_DIR$/../ScreenOrientation" />
+            <option value="$PROJECT_DIR$/../SharedPreferences" />
+            <option value="$PROJECT_DIR$/../StartService" />
+            <option value="$PROJECT_DIR$/../app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
